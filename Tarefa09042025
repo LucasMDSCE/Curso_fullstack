@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cidades</title>
+</head>
+<body>
+    <h2>Listas de cidades que quero MUITO conhecer!</h2>
+    <ul type="square">
+        <li>Anta Gorda - RS;</li>
+        <li>Barro duro - PI;</li>
+        <li>Jardim de Piranhas - RN;</li>
+        <li>Xique-Xique - BA;</li>
+        <li>Ponto Chique - MG;</li>
+        <li>Pintópolis - MG;</li>
+        <li>Coité do Noia - AL;</li>
+        <li>Varre-Sai - RJ.</li>
+    </ul>
+    <br>
+    <br>
+    <dl>
+        <h3>GERAÇÕES DO CORVETTE</h3>
+        <dt><b>Corvette C1 - 1953/1963</b></dt>
+        <dd><i>A primeira geração começou em 1953 e terminou em 1963. A C1 era equipada inicialmente com motor de 235 automático com tração traseira. Rendia 150 cv de potência bruta, chegando a 170 km/h.</i></dd>
+        <img src="https://lartbr.com.br/wp-content/uploads/2023/01/IMG_3564.jpg" alt="Corvette c1" width="200px">
+        <br>
+        <br>
+        <dt><b>Corvette C2 - 1963/1967</b></dt>
+        <dd><i>O Chevrolet Corvette C2 é um carro esportivo de segunda geração, fabricado entre 1963 e 1967. Ele tinha um motor V8 de 265 pol³ (4 339 cm³), que rendia 195 cv e alcançava 200 km/h.</i>
+        </dd>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/1963_Chevrolet_Corvette_Sting_Ray_Sport_Coupe%2C_front_left%2C_08-25-2024.jpg"
+            alt="Corvette C2" width="200px">
+        <br>
+        <br>
+        <dt><b>Corvette C3 - 1967/1982</b></dt>
+        <dd><i>O Chevrolet Corvette (C3) é a terceira geração do carro esportivo Corvette produzido de 1967 a 1982 pela Chevrolet para os anos modelo de 1968 a 1982. Os motores e componentes do chassi foram em sua maioria herdados da geração anterior, mas a carroceria e o interior eram novos.</i>
+        </dd>
+        <img src="https://assets.dyler.com/uploads/cars/411936/8951410/medium_6ba8c0d9-e49c-4860-ac87-018b9fd19cb3.jpeg"
+            alt="Corvette C3" width="200px">
+    </dl>
+    <br>
+    <br>
+    <h3>AFAZERES DOMÉSTICOS</h3>
+    <ol>
+        <li><strong>Café da manhã:</strong> Lorem ipsum dolor sit amet;</li>
+        <li><strong>Passear com o carrocho:</strong> Lorem ipsum dolor sit amet consectetur;</li>
+        <li><strong>Descongelar a carne:</strong> Lorem ipsum dolor sit amet consectetur adipisicing;</li>
+        <li><strong>Fazer o almoço:</strong> Lorem ipsum dolor sit amet, consectetur adipisicing;</li>
+        <li><strong>Dormir:</strong>Lorem, ipsum;</li>
+        <li><strong>Almoçar:</strong> Lorem ipsum dolor sit, amet consectetur adipisicing elit;</li>
+        <li><strong>Lavar louça: </strong> Lorem ipsum dolor sit;</li>
+        <li><strong>Estudar:</strong> Lorem ipsum dolor, sit amet consectetur adipisicing elit;</li>
+        <li><strong>Fazer a janta:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit;</li>
+        <li><strong>Jantar:</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit;</li>
+        <li><strong>Lavar a louça:</strong> Lorem, ipsum dolor;</li>
+        <li><strong>Estudar:</strong> Lorem ipsum dolor sit;</li>
+        <li><strong>Dormir:</strong> Lorem, ipsum.</li>
+    </ol>
+    <br>
+    <br>
+    <table border="3" style="text-align: center;">
+        <thead style="background-color: brown;">
+            <tr>
+                <th style="color: blanchedalmond;">ID</th>
+                <th style="color: blanchedalmond;">Nome</th>
+                <th style="color: blanchedalmond;">CPF</th>
+                <th style="color: blanchedalmond;">E-mail</th>
+                <th style="color: blanchedalmond;">Senha</th>
+                <th style="color: blanchedalmond;"> Imagem de perfil</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Lucas Menezes</td>
+                <td>123.456.789-00</td>
+                <td>lucas.1@gmail.com</td>
+                <td>Lucas12300</td>
+                <td><img src="https://i.ytimg.com/vi/10QDaQjp-Js/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGFogZShVMA8=&rs=AOn4CLAqN6F5kPrHc92UetctMMKpD0IGmQ" alt="Os sete monstrinhos" width="150px"></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Clécio Pereira</td>
+                <td>369.258.147-11</td>
+                <td>clécio.2@gmail.com</td>
+                <td>Clécio36911</td>
+                <td><img src="https://pm1.aminoapps.com/6485/de0275e96fb07e1bf096d0b6261810cf7283d8d6_hq.jpg" alt="Os sete monstrinhos" width="150px"></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Emanuel Santos</td>
+                <td>789.456.123-22</td>
+                <td>emanuel.2@gmail.com</td>
+                <td>Emanuel78922</td>
+                <td><img src="https://i.ytimg.com/vi/nxqHBBVI66Y/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGEEgSyhyMA8=&rs=AOn4CLCsYDsSzsTTlNA_80EAISbmiyaV1Q" alt="Os sete monstrinhos" width="150px"></td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Levi Pitt</td>
+                <td>741.852.963-33</td>
+                <td>levi.3@gmail.com</td>
+                <td>Levi74133</td>
+                <td><img src="https://pm1.aminoapps.com/6485/b32d475b002a6977f0f14faadd207010d69f8d95_hq.jpg" alt="Os sete monstrinhos" width="150px"></td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Francisco Jackson</td>
+                <td>951.753.486-44</td>
+                <td>francisco.4@gmail.com</td>
+                <td>Francisco95144</td>
+                <td><img src="https://pm1.aminoapps.com/6485/1ca5a2201f5835db4d0cacdf55a700c6de307a8e_hq.jpg" alt="Os sete monstrinhos" width="150px"></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
