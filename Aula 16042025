@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>FORMULÁRIO</h1>
+    <fieldset>
+        <legend>DADOS PESSOAIS</legend>
+        <form>
+            <label for="">Nome:</label>
+            <input type="Text" id="">
+            <br>
+            <br>
+            <label for="">Endereço:</label>
+            <input type="age" id="">
+            <br>
+            <br>
+            <label for="">Cidade:</label>
+            <input type="age" id="">
+            <br>
+            <br>
+            <label for="">Estado:</label>
+            <select>
+                <option>SP</option>
+                <option>RJ</option>
+                <option>CE</option>
+                <option>PI</option>
+                <option>MG</option>
+                <option>RN</option>
+            </select>
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend>DADOS PROFISSIONAIS</legend>
+        <br>
+        <label for=""><strong>Escolaridade:</strong></label>
+        <br>
+        <br>
+        <label><strong>Natureza do cargo:</strong></label>
+        <br>
+        <input type="radio">
+        <label for=""> Gerência</label>
+        <input type="radio">
+        <label for=""> Financeiro</label>
+        <input type="radio">
+        <label for=""> Recepção</label>
+        <input type="radio">
+        <label for=""> Administrativo</label>
+        <input type="radio">
+        <label for=""> Jurídico</label>
+        <br>
+        <br>
+        <label><strong> Área de Interesse</strong></label>
+        <br>
+        <input type="checkbox">
+        <label>Computação</label>
+        <input type="checkbox">
+        <label>Biologia</label>
+        <input type="checkbox">
+        <label>Meio Ambiente</label>
+        <input type="checkbox">
+        <label>Engenharia</label>
+        <input type="checkbox">
+        <label>História</label>
+        <br>
+        <br>
+        <label>Mini-currículo:</label>
+        <textarea rows="10" cols="100"></textarea>
+    </fieldset>
+    <br>
+    <button>Enviar</button>
+    <button type="reset">Limpar</button>
+    </form>
+
+</body>
+
+</html>
