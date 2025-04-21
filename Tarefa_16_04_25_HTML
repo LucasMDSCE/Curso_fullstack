@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITE</title>
+</head>
+
+<body style="background-color: rgb(203, 208, 212);;">
+    <fieldset style="background-color: rgb(255, 255, 255);" width="200px">
+        <legend>
+            <h3>SIGN UP</h3>
+        </legend>
+        <form>
+            <input type="text" placeholder="Nome">
+            &emsp;
+            <input type="text" placeholder="Sobrenome">
+            <br>
+            <br>
+            <input type="text" placeholder="Usuário">
+            &emsp;
+            <input type="email" placeholder="Endereço de e-mail">
+            <br>
+            <br>
+            <input type="password" placeholder="Senha">
+            &emsp;
+            <input type="password" placeholder="Confirme sua senha">
+            <br>
+            <br>
+            <input type="checkbox">
+            <label for="">Aceito</label>
+            <br>
+            <br>
+            <label for="">Ao clicar em <strong>REGISTRAR</strong>, você aceita os <a
+                    href="https://www.google.com.br/">termos e condições.</a></label>
+            <br>
+            <br>
+            <button style="background-color: rgb(75, 75, 243);">REGISTRAR</button>
+            &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+            <button style="background-color: rgb(113, 245, 87);">LOGIN</button>
+        </form>
+    </fieldset>
+</body>
+
+</html>
