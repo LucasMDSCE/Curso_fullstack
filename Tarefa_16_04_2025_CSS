@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITE</title>
+    <style>
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            justify-items: center;
+            align-items: center;
+            text-align: center;
+        }
+      
+        .container {
+      background: #fff;
+      padding: 20px 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      width: 400px;
+    }
+    </style>
+</head>
+
+<body style="background-color: rgb(203, 208, 212);;">
+    <div class="container">
+            <h3>SIGN UP</h3>
+            <hr>
+            <br>
+        <form>
+            <input type="text" placeholder="Nome">
+            &emsp;
+            <input type="text" placeholder="Sobrenome">
+            <br>
+            <br>
+            <input type="text" placeholder="Usuário">
+            &emsp;
+            <input type="email" placeholder="Endereço de e-mail">
+            <br>
+            <br>
+            <input type="password" placeholder="Senha">
+            &emsp;
+            <input type="password" placeholder="Confirme sua senha">
+            <br>
+            <br>
+            <input type="checkbox">
+            <label for="">Aceito</label>
+            <br>
+            <br>
+            <label for="">Ao clicar em <strong>REGISTRAR</strong>, você aceita os <a
+                    href="https://www.google.com.br/">termos e condições.</a></label>
+            <br>
+            <br>
+            <button style="background-color: rgb(75, 75, 243);">REGISTRAR</button>
+            &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+            <button style="background-color: rgb(113, 245, 87);">LOGIN</button>
+        </form>
+</div>
+</body>
+
+</html>
