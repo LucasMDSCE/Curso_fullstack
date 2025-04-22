@@ -12,22 +12,58 @@
             align-items: center;
             text-align: center;
         }
-      
+
         .container {
-      background: #fff;
-      padding: 20px 30px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-      width: 400px;
-    }
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background: #fff;
+            padding: 10px 20px;
+            border-radius: 10px;
+            width: 400px;
+        }
+
+        .hr {
+            height: 5px;
+            background-color: rgb(113, 245, 87);
+            border-color: rgb(113, 245, 87);
+            border-style: double;
+        }
+
+        .Aceito {
+            font-size: 12px;
+            margin-bottom: 20px;
+        }
+
+        .termos {
+            font-size: 12px;
+            margin-bottom: 20px;
+        }
+
+        .buttons button {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            width: 30%;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .button-reg {
+            background-color: rgb(80, 80, 253);
+        }
+
+        .button-log {
+            background-color: rgb(113, 245, 87);
+        }
     </style>
 </head>
 
-<body style="background-color: rgb(203, 208, 212);;">
+<body style="background-color: rgb(183, 185, 187);;">
     <div class="container">
-            <h3>SIGN UP</h3>
-            <hr>
-            <br>
+        <h3>CADASTRO</h3>
+        <hr class="hr">
+        <br>
         <form>
             <input type="text" placeholder="Nome">
             &emsp;
@@ -45,18 +81,17 @@
             <br>
             <br>
             <input type="checkbox">
-            <label for="">Aceito</label>
+            <label for="" class="Aceito">Aceito</label>
+            <p class="termos">Ao clicar em REGISTRAR, você aceita os <a href="https://www.google.com.br/">termos e
+                    condições.</a></p>
+            <hr class="hr">
             <br>
-            <br>
-            <label for="">Ao clicar em <strong>REGISTRAR</strong>, você aceita os <a
-                    href="https://www.google.com.br/">termos e condições.</a></label>
-            <br>
-            <br>
-            <button style="background-color: rgb(75, 75, 243);">REGISTRAR</button>
-            &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
-            <button style="background-color: rgb(113, 245, 87);">LOGIN</button>
+            <div class="buttons">
+                <button class="button-reg">REGISTRAR</button>
+                <button class="button-log">LOGIN</button>
+            </div>
         </form>
-</div>
+    </div>
 </body>
 
 </html>
