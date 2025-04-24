@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo</title>
+</head>
+
+<body>
+    <fieldset>
+        <h2>Brad Pitt</h2>
+        <p><Strong>Nascimento:</Strong> 00/01/0202</p>
+        <p><strong>E-mail:</strong> pitt@gmail.com</p>
+        <p><strong>Telefone:</strong> (85) 91234-5678</p>
+        <img src="https://br.web.img2.acsta.net/pictures/19/03/19/17/23/0985270.jpg" alt="Brad Pitt" width="100px">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, impedit. Reprehenderit nam voluptates
+            possimus
+            voluptate esse, quibusdam illo ipsam iste excepturi minima sequi animi quaerat amet repellat ullam officia
+            itaque voluptatibus accusamus nostrum consectetur placeat sed iusto tempore perspiciatis? Velit impedit
+            officiis
+            repudiandae totam nemo repellendus fugit sed optio, quibusdam voluptatibus ex? Quas dolorum architecto nihil
+            aliquid vel cum reprehenderit. <a href="https://pt.wikipedia.org/wiki/Brad_Pitt">Leia mais!</a></p>
+        <h3>Sumário</h3>
+        <hr>
+        <ul></ul>
+        <li><a href="#endereco">Endereço;</a></li>
+        <li><a href="#experiencia">Experiência;</a></li>
+        <li><a href="#competencias">Competências;</a></li>
+        <li><a href="#formacao_academica">Formação acadêmica.</a></li>
+
+        <h3 id="endereco">Endereço:</h3>
+        <hr>
+        <dl>
+            <dt><Strong>Rua:</Strong></dt>
+            <dd>Lorem ipsum dolor sit amet.</dd>
+            <dt><strong>Cidade:</strong></dt>
+            <dd>Lorem, ipsum.</dd>
+            <dt><strong>Bairro:</strong></dt>
+            <dd>Lorem, ipsum.</dd>
+        </dl>
+        <br>
+        <h3 id="experiencia">Experiência:</h3>
+        <hr>
+        <dl>
+            <dt><a href="https://pt.wikipedia.org/wiki/Ator"> Ator</a></dt>
+            <dd><strong>Rede Globe:</strong></dd>
+            <dd>1925 - Atual</dd>
+            <br>
+            <dt><a href="https://pt.wikipedia.org/wiki/Engenharia_civil"> Eng. Civil</a></dt>
+            <dd><strong>Construindo coisa:</strong></dd>
+            <dd>2020 - Atual</dd>
+        </dl>
+        <a href="#endereco">Topo.</a>
+        <h3 id="competencias"> Competências:</h3>
+        <hr>
+        <p>
+            <li>Nenhuma;</li>
+            <li>Fazer tudo coisado;</li>
+            <li>Jogar Minecraft;</li>
+            <li>Num sei.</li>
+        </p>
+        <a href="#endereco">Topo.</a>
+        <h3 id="formacao_academica"> Formação Acadêmica</h3>
+        <hr>
+        <dl>
+            <dt> <a href="https://ifce.edu.br/"> Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Campus
+                    Fortaleza:</a></dt>
+            <dd><strong>Artes Cênicas:</strong></dd>
+            <dd>1920-1925</dd>
+            <br>
+            <dt> <a href="https://www.ufc.br/"> Universidade Federal do Ceará:</a></dt>
+            <dd><strong>Engenharia Civil:</strong></dd>
+            <dd>2010-2015</dd>
+        </dl>
+        <a href="#endereco">Topo.</a>
+    </fieldset>
+</body>
+
+</html>
