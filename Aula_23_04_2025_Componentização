@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <section>
+        <h1>HEAD</h1>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h1>HERO</h1>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h1>FORMS</h1>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h1>PRICING</h1>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h1>TEAM</h1>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h1>BLOG</h1>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+    </section>
+
+    <section>
+        <h2>FOOTER</h2>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+
+        </div>
+        <div>
+            
+        </div>
+    </section>
+</body>
+
+</html>
