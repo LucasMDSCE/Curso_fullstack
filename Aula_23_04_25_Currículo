@@ -51,7 +51,7 @@
             <dd><strong>Construindo coisa:</strong></dd>
             <dd>2020 - Atual</dd>
         </dl>
-        <a href="#endereco">Topo.</a>
+        <a href="Currículo.html">Topo.</a>
         <h3 id="competencias"> Competências:</h3>
         <hr>
         <p>
@@ -60,7 +60,7 @@
             <li>Jogar Minecraft;</li>
             <li>Num sei.</li>
         </p>
-        <a href="#endereco">Topo.</a>
+        <a href="Currículo.html">Topo.</a>
         <h3 id="formacao_academica"> Formação Acadêmica</h3>
         <hr>
         <dl>
@@ -73,7 +73,7 @@
             <dd><strong>Engenharia Civil:</strong></dd>
             <dd>2010-2015</dd>
         </dl>
-        <a href="#endereco">Topo.</a>
+        <a href="Currículo.html">Topo.</a>
     </fieldset>
 </body>
 
