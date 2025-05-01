@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>Landing Page 07</title>
+</head>
+
+<body>
+    <section>
+        <div>
+            <img src="./FASTER.png" alt="caminhão laranja">
+        </div>
+        <div>
+            <div>
+                <a href="">Home</a>
+            </div>
+            <div>
+                <a href="">About</a>
+            </div>
+            <div>
+                <a href="">Services</a>
+            </div>
+            <div>
+                <a href="">Price</a>
+            </div>
+            <div>
+                <a href="">Pages <i class="fa-solid fa-arrow-down"></i></a>
+            </div>
+            <div>
+                <a href="">Contact</a>
+            </div>
+        </div>
+        <div>
+            <button>Get a quote</button>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <h3>Safe & Faster</h3>
+            <h1>Logistics services</h1>
+        </div>
+        <div>
+            <input type="text" placeholder="Tracking id">
+            <button>Track & Trace</button>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <div>
+                <h5>Get a quote</h5>
+                <h1>Request A Free Quote</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime ipsa deserunt excepturi perspiciatis
+                    est distinctio, unde tempora eaque nihil. Voluptates?</p>
+            </div>
+            <div>
+                <div>
+                    <p>225</p>
+                    <p>Skilled Experts</p>
+                </div>
+                <div>
+                    <p>1050</p>
+                    <p>Happy Clients</p>
+                </div>
+                <div>
+                    <p>2500</p>
+                    <p>Complete Projects</p>
+                </div>
+            </div>
+        </div>
+        <div>
+            <input type="text" placeholder="Your Name">
+            <input type="email" placeholder="Your Email">
+            <select name="" id="">
+                <option value="">A</option>
+                <option value="">B</option>
+                <option value="">C</option>
+                <option value="">D</option>
+            </select>
+            <button>Get A Quote</button>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <h6>PRICING PLAN</h6>
+            <h2>Affordable Pricing Packages</h2>
+        </div>
+        <div>
+            <div>
+                <p>$49/Mo</p>
+            </div>
+            <div>
+                <p>BASIC</p>
+            </div>
+            <div>
+                <P>HTML5 & CSS3</P>
+                <p>Bootstrap 4</p>
+                <p>Responsive Layout</p>
+                <p>Compative With All Browser</p>
+                <button>Order Now</button>
+            </div>
+        </div>
+        <div>
+            <div>
+                <P>$99/Mo</P>
+            </div>
+            <div>
+                <P>PREMIUM</P>
+            </div>
+            <div>
+                <P>HTML5 & CSS3</P>
+                <p>Bootstrap 4</p>
+                <p>Responsive Layout</p>
+                <p>Compative With All Browser</p>
+                <button>Order Now</button>
+            </div>
+        </div>
+        <div>
+            <div>
+                <P>$149/Mo</P>
+            </div>
+            <div>
+                <P>BUSINESS</P>
+            </div>
+            <div>
+                <P>HTML5 & CSS3</P>
+                <p>Bootstrap 4</p>
+                <p>Responsive Layout</p>
+                <p>Compative With All Browser</p>
+                <button>Order Now</button>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <h5>Delivery Team</h5>
+            <h2>Meet Our Delivery Team</h2>
+        </div>
+        <div>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnY1VI8dW-bW9GaHmUaVBHBcZ6oPpvXoroYg&s" alt="Gato" width="150px">
+            <p>Gato de óculos escuro</p>
+            <p>Designation</p>
+        </div>
+        <div>
+            <img src="https://i.pinimg.com/736x/d5/c8/eb/d5c8ebdfa1eb3ec56d3c284577f3a1c6.jpg" alt="Gata" width="150px">
+            <p>Gato de bandana</p>
+            <p>Designation</p>
+        </div>
+        <div>
+            <img src="/Cachorro.png" alt="Cachorro" width="150px">
+            <p>Cachorro ordem e progresso</p>
+            <p>Designation</p>
+        </div>
+        <div>
+            <img src="https://m.media-amazon.com/images/I/51XISp6ViuL._AC_UF894,1000_QL80_.jpg" alt="Dog" width="150px">
+            <p>Cachorro limão</p>
+            <p>Designation</p>
+        </div>
+    </section>
+
+    <section>
+        <div>
+            <h5>Our Blog</h5>
+            <h2>Latest From Blog</h2>
+        </div>
+        <div>
+            <div>
+                <div>
+                    <img src="https://i.pinimg.com/736x/b1/a6/d1/b1a6d11896f0adb98c6c2ad0d2174364.jpg" alt="Galo de calça" width="200px">
+                </div>
+                <div>
+                    <div>
+                        Galo de Calça
+                    </div>
+                    <div>
+                        Web Design
+                    </div>
+                    <div>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                        <button>Read More</button>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div>
+                    <img src="https://pbs.twimg.com/tweet_video_thumb/C_MJhN1XsAA17o3.jpg:large" alt="Galo de sapato" width="150px">
+                </div>
+                <div>
+                    <div>
+                        Galo de sapato
+                    </div>
+                    <div>
+                        Web Design
+                    </div>
+                    <div>
+                        <p>Lorem ipsum dolor sit amet.</p>
+                        <button>Read More</button>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+    <section>
+        <div>
+            <h3>Get in Touch</h3>
+            <p>Endereço</p>
+            <p>Número</p>
+            <p>E-mail</p>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-linkedin"></i>
+            <i class="fa-brands fa-instagram"></i>
+        </div>
+        <div>
+            <h3>Quick Links</h3>
+            <p><i class="fa-solid fa-arrow-right"></i><a href="">Home</a></p>
+            <p><i class="fa-solid fa-arrow-right"></i><a href="">About Us</a></p>
+            <p><i class="fa-solid fa-arrow-right"></i><a href="">Our Services</a></p>
+            <p><i class="fa-solid fa-arrow-right"></i><a href="">Pricing Plan</a></p>
+            <p><i class="fa-solid fa-arrow-right"></i><a href="">Contact Us</a></p>
+        </div>
+        <div>
+            <h3>Newsletter</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab, vitae.</p>
+            <input type="email" placeholder="Your Email">
+            <button>Sign Up</button>
+        </div>
+    </section>
+    <section>
+        <div>
+            <p><i class="fa-solid fa-copyright"></i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis,
+                nam?</p>
+        </div>
+        <div>
+            <p><a href="">Privacy</a></p>
+            <p><a href="">Terms</a></p>
+            <p><a href="">FAQs</a></p>
+            <p><a href="">Help</a></p>
+        </div>
+    </section>
+</body>
+
+</html>
